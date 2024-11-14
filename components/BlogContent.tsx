@@ -77,7 +77,7 @@ export default function BlogContent() {
             content: [
                 {
                     title: "¿Está bien lo que he hecho?",
-                    text: "Sí, he logrado cumplir con los objetivos planteados y he recibido retroalimentación positiva de mis supervisores.",
+                    text: "Sí, he logrado cumplir con los objetivos planteados y he recibido retroalimentación positiva de mis supervisores. Siento que cada una de las actividades que participo, estoy dando lo mejor de mí y eso me da la tranquilidad y la garantía que aunque no salga perfecto, saldrá bien.",
                     src: "/images/Imagen11.jpeg",
                     alt: "Retroalimentación de supervisores",
                 },
@@ -86,6 +86,24 @@ export default function BlogContent() {
                     text: "Siempre hay espacio para mejorar, especialmente en la documentación de los casos y en la comunicación con los pacientes.",
                     src: "/images/Imagen12.jpeg",
                     alt: "Documentación de casos clínicos",
+                },
+                {
+                    title: "¿Como he corregido los errores?",
+                    text: "Primeramente reconociendo y aceptando que como ser humano y tan inexperta puedo equivocarme, luego, analizo qué acciones llevaron a eso, para no repetirlas, y busco opciones diferentes que me sirvan para realizar cada una de mis actividades de la mejor manera.",
+                    src: "/images/Imagen15.jpeg",
+                    alt: "Confianza en el proceso",
+                },
+                {
+                    title: "¿De qué me siento orgullosa?",
+                    text: "De darme cuenta que mi trabajo aquí, generó un impacto positivo en la comunidad, escuchar los agradecimientos de las personas de que alguna u otra manera pude intervenir, es lo que queda grabado en mi memoria y es el mejor triunfo que pude adquirir en esta práctica.",
+                    src: "/images/Imagen16.jpeg",
+                    alt: "Un bello paisaje",
+                },
+                {
+                    title: "¿Qué he aprendido?",
+                    text: "He aprendido que es de suma importancia integrar conceptos de territorio, de territorialidad y territorialización, que en las creencias y herencias ancestrales de costumbres y hábitos juegan un papel importante y hace parte de esa esencia que nos caracteriza, creando así un territorio rico en enseñanzas y en potencialidades. He aprendido que al abordar una situación particular, no solo es importante ocuparse de la condición en sí, sino también de la persona que la presenta, quien está inmersa en un contexto que impacta tanto su estado de salud como su proceso de recuperación.",
+                    src: "/images/Imagen23.jpeg",
+                    alt: "Un momento de convivencia",
                 },
                 {
                     title: "¿Qué es lo que he hecho mejor?",
