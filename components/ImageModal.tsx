@@ -40,7 +40,7 @@ export function ImageModal({ src, alt }: ImageModalProps) {
                         alt={alt}
                         width={1200}
                         height={800}
-                        className="w-full h-auto object-contain"
+                        className="w-full h-full object-contain"
                     />
                 </DialogContent>
             </Dialog>
